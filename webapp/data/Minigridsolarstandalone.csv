@@ -1,0 +1,767 @@
+﻿S.no,District,Block,Village Name,Financial Year,Scheme Name,Ownership,Number of Household,Capacity,Mode
+1,Sahibganj,Pathna,UrsaPahad,FY 2021-22,Jharkand Rural electrification programme,Government,125,30,Mini grid
+2,Sahibganj,Barhet,Dulmi,FY 2021-22,Jharkand Rural electrification programme,Government,240,73,Mini grid
+3,Sahibganj,Barhet,Mahua Thand,FY 2021-22,Jharkand Rural electrification programme,Government,133,35,Mini grid
+4,Sahibganj,Barhet,Hiranpur,FY 2021-22,Jharkand Rural electrification programme,Government,145,35,Mini grid
+5,Sahibganj,Pathna,Chapel Pahar,FY 2021-22,Jharkand Rural electrification programme,Government,92,23,Mini grid
+6,Sahibganj,Barhet,Karanghatti,FY 2021-22,Jharkand Rural electrification programme,Government,96,23,Mini grid
+7,Sahibganj,Barhet,Barmasiya,FY 2021-22,Jharkand Rural electrification programme,Government,240,60,Mini grid
+8,Sahibganj,Barhet,Basko Pahad,FY 2021-22,Jharkand Rural electrification programme,Government,160,40,Mini grid
+9,Sahibganj,Barhet,Teghra Pahad,FY 2021-22,Jharkand Rural electrification programme,Government,160,40,Mini grid
+10,Hazaribag,Ichak,Gardine,FY 2021-22,Jharkand Rural electrification programme,Government,140,35,Mini grid
+11,Chatra,Simaria,Bargaon,FY 2021-22,Jharkand Rural electrification programme,Government,360,55,Mini grid
+12,Simdega,Bano,"Tarop tola, Khapra tola,Kadam tola, Bar Tola",FY 2021-22,Jharkand Rural electrification programme,Government,180,74,Mini grid
+13,Chatra,Simaria,Kaslatu,FY 2021-22,Jharkand Rural electrification programme,Government,250,60,Mini grid
+14,Chatra,Pratappur,Bami,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+15,Chatra,Pratappur,Kundi,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+16,Chatra,Kunda,Soharlot,FY 2017-18,DDUGJY(off-grid),Government,52,13,Mini grid
+17,Chatra,Lawalaung,Sehada,FY 2017-18,DDUGJY(off-grid),Government,41,11,Mini grid
+18,Chatra,Lawalaung,Bishunpur,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+19,Chatra,Lawalaung,Kotari,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+20,Chatra,Lawalaung,Narainpur,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+21,Chatra,Lawalaung,Teona,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+22,Chatra,Lawalaung,Barwadih,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+23,Chatra,Lawalaung,Lorga,FY 2017-18,DDUGJY(off-grid),Government,18,5,Mini grid
+24,Chatra,Lawalaung,Hurdag,FY 2017-18,DDUGJY(off-grid),Government,16,4,Mini grid
+25,Chatra,Lawalaung,Kadhe,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+26,Chatra,Lawalaung,Lutu,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+27,Chatra,Lawalaung,Sohawan,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+28,Chatra,Lawalaung,Dunho,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+29,Chatra,Lawalaung,Harhad,FY 2017-18,DDUGJY(off-grid),Government,70,18,Mini grid
+30,Chatra,Lawalaung,Rimi,FY 2017-18,DDUGJY(off-grid),Government,41,11,Mini grid
+31,Chatra,Pratappur,Angarah,FY 2017-18,DDUGJY(off-grid),Government,120,30,Mini grid
+32,Chatra,Kunda,Khusihala,FY 2017-18,DDUGJY(off-grid),Government,58,15,Mini grid
+33,Chatra,Hunterganj,Bisrampur,FY 2017-18,DDUGJY(off-grid),Government,77,20,Mini grid
+34,Chatra,Lawalaung,Jobhi,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+35,Chatra,Lawalaung,Nawadih,FY 2017-18,DDUGJY(off-grid),Government,86,22,Mini grid
+36,Chatra,Lawalaung,Matti Majdiha,FY 2017-18,DDUGJY(off-grid),Government,99,25,Mini grid
+37,Chatra,Lawalaung,Marwa,FY 2017-18,DDUGJY(off-grid),Government,110,28,Mini grid
+38,Chatra,Lawalaung,Pasagam,FY 2017-18,DDUGJY(off-grid),Government,115,29,Mini grid
+39,Chatra,Lawalaung,Banwar,FY 2017-18,DDUGJY(off-grid),Government,170,43,Mini grid
+40,Chatra,Lawalaung,Sildag,FY 2017-18,DDUGJY(off-grid),Government,256,64,Mini grid
+41,Chatra,Lawalaung,"Manatu Alias, Tikulia",FY 2017-18,DDUGJY(off-grid),Government,125,32,Mini grid
+42,Chatra,Lawalaung,"Kanti alias, mandhania",FY 2017-18,DDUGJY(off-grid),Government,266,67,Mini grid
+43,Chatra,Lawalaung,Sulma,FY 2017-18,DDUGJY(off-grid),Government,80,20,Mini grid
+44,Chatra,Lawalaung,Atra-atu,FY 2017-18,DDUGJY(off-grid),Government,90,23,Mini grid
+45,Chatra,Lawalaung,Lowalang,FY 2017-18,DDUGJY(off-grid),Government,175,44,Mini grid
+46,Chatra,Lawalaung,Sikni,FY 2017-18,DDUGJY(off-grid),Government,145,37,Mini grid
+47,Chatra,Lawalaung,Barhed,FY 2017-18,DDUGJY(off-grid),Government,58,15,Mini grid
+48,Chatra,Lawalaung,Hosir,FY 2017-18,DDUGJY(off-grid),Government,82,20,Mini grid
+49,Chatra,Lawalaung,Hutru,FY 2017-18,DDUGJY(off-grid),Government,201,50,Mini grid
+50,Chatra,Lawalaung,Jalma,FY 2017-18,DDUGJY(off-grid),Government,50,18,Mini grid
+51,Chatra,Lawalaung,Samhe,FY 2017-18,DDUGJY(off-grid),Government,72,18,Mini grid
+52,Chatra,Lawalaung,Hahe,FY 2017-18,DDUGJY(off-grid),Government,118,29,Mini grid
+53,Chatra,Lawalaung,Tigda,FY 2017-18,DDUGJY(off-grid),Government,94,24,Mini grid
+54,Chatra,Lawalaung,Bhushar,FY 2017-18,DDUGJY(off-grid),Government,135,34,Mini grid
+55,Chatra,Lawalaung,Chani,FY 2017-18,DDUGJY(off-grid),Government,110,28,Mini grid
+56,Chatra,Lawalaung,Kalyanpur,FY 2017-18,DDUGJY(off-grid),Government,130,33,Mini grid
+57,Chatra,Lawalaung,Madandih,FY 2017-18,DDUGJY(off-grid),Government,150,38,Mini grid
+58,Chatra,Kunda,Balhi,FY 2017-18,DDUGJY(off-grid),Government,21,6,Mini grid
+59,Chatra,Kunda,Korhans,FY 2017-18,DDUGJY(off-grid),Government,20,5,Mini grid
+60,Chatra,Lawalaung,Kolkol Khurd,FY 2017-18,DDUGJY(off-grid),Government,30,8,Mini grid
+61,Chatra,Hunterganj,Ghatdhari,FY 2017-18,DDUGJY(off-grid),Government,28,7,Mini grid
+62,Chatra,Hunterganj,Kolhua,FY 2017-18,DDUGJY(off-grid),Government,41,11,Mini grid
+63,Chatra,Hunterganj,Koluapahar,FY 2017-18,DDUGJY(off-grid),Government,20,5,Mini grid
+64,Chatra,Lawalaung,Limodih,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+65,Chatra,Hunterganj,Gue,FY 2017-18,DDUGJY(off-grid),Government,40,10,Mini grid
+66,Chatra,Hunterganj,Kenrimoh,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+67,Chatra,Pratappur,Barhe,FY 2017-18,DDUGJY(off-grid),Government,38,10,Mini grid
+68,Chatra,Lawalaung,Serka,FY 2017-18,DDUGJY(off-grid),Government,36,9,Mini grid
+69,Chatra,Lawalaung,Bhangia,FY 2017-18,DDUGJY(off-grid),Government,30,8,Mini grid
+70,Chatra,Lawalaung,Hardipur,FY 2017-18,DDUGJY(off-grid),Government,36,9,Mini grid
+71,Chatra,Pratappur,Hesatu,FY 2017-18,DDUGJY(off-grid),Government,72,18,Mini grid
+72,Chatra,Lawalaung,Bandu,FY 2017-18,DDUGJY(off-grid),Government,270,68,Mini grid
+73,Chatra,Lawalaung,Herum,FY 2017-18,DDUGJY(off-grid),Government,415,104,Mini grid
+74,Chatra,Pratappur,Shikarpur,FY 2017-18,DDUGJY(off-grid),Government,40,10,Mini grid
+75,Chatra,Kunda,Kujram,FY 2017-18,DDUGJY(off-grid),Government,24,6,Mini grid
+76,Chatra,Kunda,Phuiwaria,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+77,Chatra,Lawalaung,Jhardag,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+78,Chatra,Pratappur,Kuba,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+79,Chatra,Lawalaung,Chano,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+80,Chatra,Lawalaung,Bulbul,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+81,Chatra,Kunda,Ichak,FY 2017-18,DDUGJY(off-grid),Government,27,7,Mini grid
+82,Chatra,Hunterganj,Gaidhatari,FY 2017-18,DDUGJY(off-grid),Government,7,1.4,Stand Alone
+83,Chatra,Kunda,Garo,FY 2017-18,DDUGJY(off-grid),Government,14,2.8,Stand Alone
+84,Chatra,Lawalaung,Malgo,FY 2017-18,DDUGJY(off-grid),Government,10,2,Stand Alone
+85,Chatra,Lawalaung,Baheradih,FY 2017-18,DDUGJY(off-grid),Government,11,2.2,Stand Alone
+86,Chatra,pratappur,Dhardhari,FY 2017-18,DDUGJY(off-grid),Government,2,0.4,Stand Alone
+87,Chatra,Lawaloung,Mungadih,FY 2017-18,DDUGJY(off-grid),Government,3,0.6,Stand Alone
+88,Chatra,Lawaloung,Rechag,FY 2017-18,DDUGJY(off-grid),Government,4,0.8,Stand Alone
+89,Chatra,Lawaloung,Lare,FY 2017-18,DDUGJY(off-grid),Government,8,1.6,Stand Alone
+90,Chatra,Kunda,Kamat,FY 2017-18,DDUGJY(off-grid),Government,8,1.6,Stand Alone
+91,Chatra,Hunterganj,Bengwatari,FY 2017-18,DDUGJY(off-grid),Government,3,0.6,Stand Alone
+92,Chatra,Lawalaung,Garhe,FY 2017-18,DDUGJY(off-grid),Government,20,4,Stand Alone
+93,Chatra,Hunterganj,Bisrampur,FY 2017-18,DDUGJY(off-grid),Government,14,2.8,Stand Alone
+94,Gumla,Ghaghra,Ghagra Pat,FY 2017-18,DDUGJY(off-grid),Government,65,17,Mini grid
+95,Gumla,Dumri,Galu,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+96,Gumla,Dumri,Birgaon,FY 2017-18,DDUGJY(off-grid),Government,18,5,Mini grid
+97,Gumla,Ghaghra,Korle,FY 2017-18,DDUGJY(off-grid),Government,18,5,Mini grid
+98,Gumla,Bishunpur,Hisir,FY 2017-18,DDUGJY(off-grid),Government,40,10,Mini grid
+99,Gumla,Gumla,Barkani,FY 2017-18,DDUGJY(off-grid),Government,40,10,Mini grid
+100,Gumla,Chainpur,Kewna,FY 2017-18,DDUGJY(off-grid),Government,20,5,Mini grid
+101,Gumla,Palkot,Ladhudera,FY 2017-18,DDUGJY(off-grid),Government,30,8,Mini grid
+102,Gumla,Chainpur,Marwa,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+103,Gumla,Chainpur,Pakni,FY 2017-18,DDUGJY(off-grid),Government,40,10,Mini grid
+104,Gumla,Chainpur,Dumri,FY 2017-18,DDUGJY(off-grid),Government,58,15,Mini grid
+105,Gumla,Chainpur,Tebela,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+106,Gumla,Bishunpur,Hapad,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+107,Gumla,Palkot,Akarakona,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+108,Gumla,Chainpur,Kochagani,FY 2017-18,DDUGJY(off-grid),Government,47,12,Mini grid
+109,Gumla,Chainpur,Kodla,FY 2017-18,DDUGJY(off-grid),Government,53,14,Mini grid
+110,Gumla,Chainpur,Kuiya,FY 2017-18,DDUGJY(off-grid),Government,39,10,Mini grid
+111,Gumla,Chainpur,Kukurunja,FY 2017-18,DDUGJY(off-grid),Government,57,15,Mini grid
+112,Gumla,Chainpur,Keragani,FY 2017-18,DDUGJY(off-grid),Government,100,25,Mini grid
+113,Gumla,Palkot,Nichdumri,FY 2017-18,DDUGJY(off-grid),Government,100,25,Mini grid
+114,Gumla,Chainpur,Sokrahatu,FY 2017-18,DDUGJY(off-grid),Government,93,24,Mini grid
+115,Gumla,Palkot,Sanaidih,FY 2017-18,DDUGJY(off-grid),Government,130,33,Mini grid
+116,Gumla,Palkot,Uparkhatanga,FY 2017-18,DDUGJY(off-grid),Government,301,76,Mini grid
+117,Hazaribag,Chauparan,Khairantanr,FY 2017-18,DDUGJY(off-grid),Government,19,5,Mini grid
+118,Hazaribag,Chauparan,Pathalgarwa,FY 2017-18,DDUGJY(off-grid),Government,28,7,Mini grid
+119,Hazaribag,Chauparan,Duragara,FY 2017-18,DDUGJY(off-grid),Government,52,13,Mini grid
+120,Hazaribag,Ichak,Kaile,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+121,Hazaribag,Chauparan,Kothoudumar,FY 2017-18,DDUGJY(off-grid),Government,24,8,Mini grid
+122,Hazaribag,Chauparan,Mainkuhar,FY 2017-18,DDUGJY(off-grid),Government,26,7,Mini grid
+123,Hazaribag,Chauparan,Maisa Khar,FY 2017-18,DDUGJY(off-grid),Government,22,7,Mini grid
+124,Hazaribag,Chauparan,Pathalgara,FY 2017-18,DDUGJY(off-grid),Government,100,25,Mini grid
+125,Hazaribag,Chauparan,Sikda,FY 2017-18,DDUGJY(off-grid),Government,15,4,Mini grid
+126,Hazaribag,Chauparan,Murina,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+127,Hazaribag,Chauparan,Murainia,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+128,Hazaribag,Chauparan,Dhoria,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+129,Hazaribag,Chauparan,Bukar,FY 2017-18,DDUGJY(off-grid),Government,95,24,Mini grid
+130,Hazaribag,Chauparan,Gormorwa,FY 2017-18,DDUGJY(off-grid),Government,80,20,Mini grid
+131,Hazaribag,Ichak,Pandra,FY 2017-18,DDUGJY(off-grid),Government,5,1,Stand Alone
+132,Hazaribag,Chauparan,Sahijana,FY 2017-18,DDUGJY(off-grid),Government,5,1,Stand Alone
+133,Hazaribag,Ichak,Parasirajghat,FY 2017-18,DDUGJY(off-grid),Government,3,0.6,Stand Alone
+134,Latehar,Garu,Latu,FY 2017-18,DDUGJY(off-grid),Government,35,7,Stand Alone
+135,Latehar,Garu,Kojram,FY 2017-18,DDUGJY(off-grid),Government,56,11.2,Stand Alone
+136,Latehar,Garu,Karihenar,FY 2017-18,DDUGJY(off-grid),Government,95,19,Stand Alone
+137,Latehar,Garu,Ghuturu,FY 2017-18,DDUGJY(off-grid),Government,98,19.6,Stand Alone
+138,Latehar,Barwadih,Ramru,FY 2017-18,DDUGJY(off-grid),Government,88,17.6,Stand Alone
+139,Pakur,Amrapara,"Bara Bandhkai, Sariam",FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+140,Pakur,Litipara,Behra,FY 2017-18,DDUGJY(off-grid),Government,40,10,Mini grid
+141,Pakur,Littipara,Tetli,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+142,Pakur,Littipara,Margo,FY 2017-18,DDUGJY(off-grid),Government,16,4,Mini grid
+143,Pakur,Littipara,Kasigora Santhal,FY 2017-18,DDUGJY(off-grid),Government,15,4,Mini grid
+144,Pakur,Littipara,Chhota Chetro,FY 2017-18,DDUGJY(off-grid),Government,15,4,Mini grid
+145,Pakur,Littipara,Barajara,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+146,Pakur,Littipara,Narchi,FY 2017-18,DDUGJY(off-grid),Government,18,5,Mini grid
+147,Pakur,Littipara,Uparmargo,FY 2017-18,DDUGJY(off-grid),Government,18,5,Mini grid
+148,Pakur,Amrapara,Madui Chhoti,FY 2017-18,DDUGJY(off-grid),Government,18,5,Mini grid
+149,Pakur,Amrapara,Tamki,FY 2017-18,DDUGJY(off-grid),Government,15,4,Mini grid
+150,Pakur,Amrapara,Porpara,FY 2017-18,DDUGJY(off-grid),Government,15,4,Mini grid
+151,Pakur,Littipara,Tatbhitapahar,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+152,Pakur,Littipara,Tatbhita Santhall,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+153,Pakur,Littipara,Bathukundi,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+154,Pakur,Littipara,Barganwpahar,FY 2017-18,DDUGJY(off-grid),Government,46,12,Mini grid
+155,Pakur,Littipara,Jani,FY 2017-18,DDUGJY(off-grid),Government,65,17,Mini grid
+156,Pakur,Littipara,Pangdo,FY 2017-18,DDUGJY(off-grid),Government,7,1.4,Stand Alone
+157,Sahibganj,Taljhari,Goalapahar,FY 2017-18,DDUGJY(off-grid),Government,38,10,Mini grid
+158,Sahibganj,Barhait,Chaperi,FY 2017-18,DDUGJY(off-grid),Government,37,7,Mini grid
+159,Sahibganj,Borio,Amjani,FY 2017-18,DDUGJY(off-grid),Government,15,4,Mini grid
+160,Sahibganj,Mandro,Garapani,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+161,Sahibganj,Taljhari,Chamdi Bedo,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+162,Sahibganj,Taljhari,Chamdi Mango,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+163,Sahibganj,Taljhari,Joya,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+164,Sahibganj,Taljhari,Goga,FY 2017-18,DDUGJY(off-grid),Government,16,4,Mini grid
+165,Sahibganj,Taljhari,Kasari,FY 2017-18,DDUGJY(off-grid),Government,17,5,Mini grid
+166,Sahibganj,Taljhari,Muri (Bara),FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+167,Sahibganj,Taljhari,Chabitok,FY 2017-18,DDUGJY(off-grid),Government,28,7,Mini grid
+168,Sahibganj,Taljhari,Ichapara (Ichanasi),FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+169,Sahibganj,Taljhari,Jirik (Kaji),FY 2017-18,DDUGJY(off-grid),Government,21,6,Mini grid
+170,Sahibganj,Taljhari,Jokani Maqo,FY 2017-18,DDUGJY(off-grid),Government,21,6,Mini grid
+171,Sahibganj,Taljhari,Malibita,FY 2017-18,DDUGJY(off-grid),Government,22,6,Mini grid
+172,Sahibganj,Taljhari,Mansbbera Bera (Bans Pahar),FY 2017-18,DDUGJY(off-grid),Government,17,5,Mini grid
+173,Sahibganj,Taljhari,Manskepu,FY 2017-18,DDUGJY(off-grid),Government,17,5,Mini grid
+174,Sahibganj,Taljhari,Pakia Bedo,FY 2017-18,DDUGJY(off-grid),Government,24,6,Mini grid
+175,Sahibganj,Taljhari,Pirpam,FY 2017-18,DDUGJY(off-grid),Government,24,6,Mini grid
+176,Sahibganj,Taljhari,Rohra,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+177,Sahibganj,Barhait,Gorakepu,FY 2017-18,DDUGJY(off-grid),Government,37,10,Mini grid
+178,Sahibganj,Taljhari,Behra,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+179,Sahibganj,Taljhari,Godwa,FY 2017-18,DDUGJY(off-grid),Government,38,10,Mini grid
+180,Sahibganj,Taljhari,Tuti,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+181,Sahibganj,Taljhari,Darwase Bedo,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+182,Sahibganj,Taljhari,Banapara,FY 2017-18,DDUGJY(off-grid),Government,38,10,Mini grid
+183,Sahibganj,Taljhari,Chengbita (Nagarbita),FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+184,Sahibganj,Taljhari,Dawana,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+185,Sahibganj,Taljhari,Karkaram,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+186,Sahibganj,Taljhari,Ketekbera,FY 2017-18,DDUGJY(off-grid),Government,27,7,Mini grid
+187,Sahibganj,Taljhari,Phulijhari,FY 2017-18,DDUGJY(off-grid),Government,61,16,Mini grid
+188,Sahibganj,Taljhari,Kochori Mago,FY 2017-18,DDUGJY(off-grid),Government,65,17,Mini grid
+189,Sahibganj,Taljhari,Salgachi (sarki),FY 2017-18,DDUGJY(off-grid),Government,80,20,Mini grid
+190,Sahibganj,Barhait,Bedombari/ Bedomori,FY 2017-18,DDUGJY(off-grid),Government,11,2.2,Stand Alone
+191,Sahibganj,Borio,Chhota Bhiranda,FY 2017-18,DDUGJY(off-grid),Government,17,5,Mini grid
+192,Sahibganj,Borio,Mir,FY 2017-18,DDUGJY(off-grid),Government,17,5,Mini grid
+193,Sahibganj,Mandro,Badem,FY 2017-18,DDUGJY(off-grid),Government,17,5,Mini grid
+194,Sahibganj,Taljhari,Jokani Bedo,FY 2017-18,DDUGJY(off-grid),Government,19,5,Mini grid
+195,Sahibganj,Mandro,Aurjanr,FY 2017-18,DDUGJY(off-grid),Government,8,1.6,Stand Alone
+196,Sahibganj,Taljhari,Rodo,FY 2017-18,DDUGJY(off-grid),Government,16,3.2,Stand Alone
+197,Sahibganj,Taljhari,Tebo(Basgo),FY 2017-18,DDUGJY(off-grid),Government,12,2.4,Stand Alone
+198,Sahibganj,Borio,Belra,FY 2017-18,DDUGJY(off-grid),Government,3,0.6,Stand Alone
+199,Saraikela- Kharsawan,Chandil,Rangamatia,FY 2017-18,DDUGJY(off-grid),Government,15,3,Stand Alone
+200,Simdega,Bano,Boranda,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+201,Simdega,Jaldega,Barbera,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+202,Simdega,Jaldega,Semariya,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+203,Simdega,Simdega,Rengarpani,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+204,Simdega,Simdega,Hardibera,FY 2017-18,DDUGJY(off-grid),Government,100,25,Mini grid
+205,Simdega,Thetinagar,"Siringbera -1,2,3",FY 2017-18,DDUGJY(off-grid),Government,347,86,Mini grid
+206,Purba Singhbhum,Bandhgaon,Lowahatu,FY 2017-18,DDUGJY(off-grid),Government,44,11,Mini grid
+207,Purba Singhbhum,Bandhgaon,Bobonga,FY 2017-18,DDUGJY(off-grid),Government,42,11,Mini grid
+208,Purba Singhbhum,Bandhgaon,Halmad,FY 2017-18,DDUGJY(off-grid),Government,30,8,Mini grid
+209,Purba Singhbhum,Bandhgaon,Pingu,FY 2017-18,DDUGJY(off-grid),Government,78,20,Mini grid
+210,Purba Singhbhum,Tonto,Rajabasa,FY 2017-18,DDUGJY(off-grid),Government,18,5,Mini grid
+211,Purba Singhbhum,Tonto,Jhirjhanr,FY 2017-18,DDUGJY(off-grid),Government,20,5,Mini grid
+212,Purba Singhbhum,Goilkera,Sonva,FY 2017-18,DDUGJY(off-grid),Government,90,23,Mini grid
+213,Purba Singhbhum,Goilkera,Srijang,FY 2017-18,DDUGJY(off-grid),Government,102,21,Mini grid
+214,Purba Singhbhum,Goilkera,Rerda,FY 2017-18,DDUGJY(off-grid),Government,180,45,Mini grid
+215,Purba Singhbhum,Goilkera,Saitba,FY 2017-18,DDUGJY(off-grid),Government,150,38,Mini grid
+216,Purba Singhbhum,Goilkera,Bangurkia,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+217,Purba Singhbhum,kumardung,Haldi Pokhar,FY 2017-18,DDUGJY(off-grid),Government,233,59,Mini grid
+218,Purba Singhbhum,Sonua,Nachalda,FY 2017-18,DDUGJY(off-grid),Government,70,18,Mini grid
+219,Purba Singhbhum,Sonua,Munjunia,FY 2017-18,DDUGJY(off-grid),Government,85,22,Mini grid
+220,Purba Singhbhum,Goilkera,Balia,FY 2017-18,DDUGJY(off-grid),Government,70,18,Mini grid
+221,Purba Singhbhum,Goilkera,Sangajata,FY 2017-18,DDUGJY(off-grid),Government,70,18,Mini grid
+222,Purba Singhbhum,Goilkera,Lomenta,FY 2017-18,DDUGJY(off-grid),Government,80,20,Mini grid
+223,Purba Singhbhum,Goilkera,Patunsha,FY 2017-18,DDUGJY(off-grid),Government,110,28,Mini grid
+224,Purba Singhbhum,Tonto,Rutagutu,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+225,Purba Singhbhum,Tonto,Agoban,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+226,Purba Singhbhum,Bandhgaon,Akir,FY 2017-18,DDUGJY(off-grid),Government,24,6,Mini grid
+227,Purba Singhbhum,Tonto,Husia,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+228,Purba Singhbhum,Tonto,Gaupur,FY 2017-18,DDUGJY(off-grid),Government,20,5,Mini grid
+229,Purba Singhbhum,Tonto,Kuessuta,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+230,Purba Singhbhum,Tonto,Udalkam,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+231,Purba Singhbhum,Tonto,Akahata,FY 2017-18,DDUGJY(off-grid),Government,77,20,Mini grid
+232,Purba Singhbhum,Bandhgaon,Manmaru,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+233,Purba Singhbhum,Bandhgaon,Rogto,FY 2017-18,DDUGJY(off-grid),Government,25,7,Mini grid
+234,Purba Singhbhum,Sonua,Baskata,FY 2017-18,DDUGJY(off-grid),Government,54,14,Mini grid
+235,Purba Singhbhum,Manoharpu,Lowasokra,FY 2017-18,DDUGJY(off-grid),Government,35,9,Mini grid
+236,Purba Singhbhum,Tonto,Bundu,FY 2017-18,DDUGJY(off-grid),Government,145,38,Mini grid
+237,Purba Singhbhum,Goilkera,Ambiya (Arabia),FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+238,Purba Singhbhum,Tonto,Banki,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+239,Purba Singhbhum,Tonto,Sarjom guru,FY 2017-18,DDUGJY(off-grid),Government,40,10,Mini grid
+240,Purba Singhbhum,Goilkera,Borae (Borne),FY 2017-18,DDUGJY(off-grid),Government,170,43,Mini grid
+241,Purba Singhbhum,Bandhgaon,Tarobera,FY 2017-18,DDUGJY(off-grid),Government,26,7,Mini grid
+242,Purba Singhbhum,Sonua,Mundari,FY 2017-18,DDUGJY(off-grid),Government,68,17,Mini grid
+243,Purba Singhbhum,Bandhgaon,Shankra,FY 2017-18,DDUGJY(off-grid),Government,30,8,Mini grid
+244,Purba Singhbhum,Sonua,Udalkom,FY 2017-18,DDUGJY(off-grid),Government,50,13,Mini grid
+245,Purba Singhbhum,Tonto,Kadal Sakwa,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+246,Purba Singhbhum,Bandhgaon,Jerakel,FY 2017-18,DDUGJY(off-grid),Government,66,17,Mini grid
+247,Purba Singhbhum,Bandhgaon,Kurjulee,FY 2017-18,DDUGJY(off-grid),Government,106,27,Mini grid
+248,Purba Singhbhum,Bandhgaon,Jankopai,FY 2017-18,DDUGJY(off-grid),Government,66,17,Mini grid
+249,Purba Singhbhum,Bandhgaon,Kotagara,FY 2017-18,DDUGJY(off-grid),Government,80,20,Mini grid
+250,Purba Singhbhum,Tonto,Pukri Kuru,FY 2017-18,DDUGJY(off-grid),Government,60,15,Mini grid
+251,Purba Singhbhum,Tonto,Tembahaka,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+252,Purba Singhbhum,Tonto,Tuebera,FY 2017-18,DDUGJY(off-grid),Government,45,12,Mini grid
+253,Purba Singhbhum,Tonto,Masuriburu,FY 2017-18,DDUGJY(off-grid),Government,55,14,Mini grid
+254,Purba Singhbhum,Tonto,Patatarob,FY 2017-18,DDUGJY(off-grid),Government,100,25,Mini grid
+255,Purba Singhbhum,Sonua,Karmba,FY 2017-18,DDUGJY(off-grid),Government,80,20,Mini grid
+256,Purba Singhbhum,Noamundi,Karampada I & II,FY 2017-18,DDUGJY(off-grid),Government,151,48,Mini grid
+257,Purba Singhbhum,bandgaon,Chirkubera,FY 2017-18,DDUGJY(off-grid),Government,13,2.6,Stand Alone
+258,Purba Singhbhum,Bandhgaon,Kentai,FY 2017-18,DDUGJY(off-grid),Government,10,2,Stand Alone
+259,Purba Singhbhum,Sonua,Bilaita toli,FY 2017-18,DDUGJY(off-grid),Government,12,2.4,Stand Alone
+260,Pakur,Amrapara,Jamripaharia,FY 2021-22,Jharkand Rural electrification programme,Government,17,,Stand Alone
+261,Pakur,Amrapara,Barakuskuta,FY 2021-22,Jharkand Rural electrification programme,Government,41,,Stand Alone
+262,Pakur,Amrapara,Amirjola,FY 2021-22,Jharkand Rural electrification programme,Government,65,,Stand Alone
+263,Pakur,Amrapara,Jamripaharia,FY 2021-22,Jharkand Rural electrification programme,Government,19,,Stand Alone
+264,Pakur,Amrapara,Barakuskuta,FY 2021-22,Jharkand Rural electrification programme,Government,36,,Stand Alone
+265,Pakur,Amrapara,Amirjola,FY 2021-22,Jharkand Rural electrification programme,Government,35,,Stand Alone
+266,Pakur,Amrapara,Bunsi,FY 2021-22,Jharkand Rural electrification programme,Government,22,,Stand Alone
+267,Pakur,Littipara,Bichpahar,FY 2021-22,Jharkand Rural electrification programme,Government,38,,Stand Alone
+268,Pakur,Littipara,Sadanandpur,FY 2021-22,Jharkand Rural electrification programme,Government,20,,Stand Alone
+269,Pakur,Littipara,Bara-chetro,FY 2021-22,Jharkand Rural electrification programme,Government,27,,Stand Alone
+270,Pakur,Maheshpur,Bara-Gurso,FY 2021-22,Jharkand Rural electrification programme,Government,28,,Stand Alone
+271,Pakur,Littipara,Gokulpur,FY 2021-22,Jharkand Rural electrification programme,Government,27,,Stand Alone
+272,Pakur,Littipara,Barakamgora,FY 2021-22,Jharkand Rural electrification programme,Government,30,,Stand Alone
+273,Pakur,Littipara,Karkaram,FY 2021-22,Jharkand Rural electrification programme,Government,32,,Stand Alone
+274,Pakur,Littipara,Darikurria,FY 2021-22,Jharkand Rural electrification programme,Government,5,,Stand Alone
+275,Pakur,Littipara,Kumarkata,FY 2021-22,Jharkand Rural electrification programme,Government,36,,Stand Alone
+276,Pakur,Littipara,Palapahari,FY 2021-22,Jharkand Rural electrification programme,Government,30,,Stand Alone
+277,Pakur,Littipara,Parasbhita,FY 2021-22,Jharkand Rural electrification programme,Government,26,,Stand Alone
+278,Pakur,Amrapara,Jamripaharia,FY 2021-22,Jharkand Rural electrification programme,Government,29,,Stand Alone
+279,Pakur,Amrapara,Barakuskuta,FY 2021-22,Jharkand Rural electrification programme,Government,38,,Stand Alone
+280,Pakur,Amrapara,Amirjola,FY 2021-22,Jharkand Rural electrification programme,Government,39,,Stand Alone
+281,Pakur,Amrapara,Bunsi,FY 2021-22,Jharkand Rural electrification programme,Government,35,,Stand Alone
+282,Pakur,Littipara,Bichpahar,FY 2021-22,Jharkand Rural electrification programme,Government,157,,Stand Alone
+283,Pakur,Littipara,Sadanandpur,FY 2021-22,Jharkand Rural electrification programme,Government,12,,Stand Alone
+284,Pakur,Littipara,Bara-chetro,FY 2021-22,Jharkand Rural electrification programme,Government,28,,Stand Alone
+285,Pakur,Maheshpur,Bara-Gurso,FY 2021-22,Jharkand Rural electrification programme,Government,20,,Stand Alone
+286,Pakur,Littipara,Gokulpur,FY 2021-22,Jharkand Rural electrification programme,Government,22,,Stand Alone
+287,Pakur,Littipara,Barakamgora,FY 2021-22,Jharkand Rural electrification programme,Government,40,,Stand Alone
+288,Pakur,Littipara,Amarbhita,FY 2021-22,Jharkand Rural electrification programme,Government,25,,Stand Alone
+289,Pakur,Littipara,Karkaram,FY 2021-22,Jharkand Rural electrification programme,Government,20,,Stand Alone
+290,Sahibganj,Barhet,Daminbhita,FY 2021-22,Jharkand Rural electrification programme,Government,35,,Stand Alone
+291,Sahibganj,Barhet,Chowka Pahad,FY 2021-22,Jharkand Rural electrification programme,Government,24,,Stand Alone
+292,Sahibganj,Barhet,Chapri Pahad,FY 2021-22,Jharkand Rural electrification programme,Government,48,,Stand Alone
+293,Sahibganj,Barhet,Bada Panchrukhi,FY 2021-22,Jharkand Rural electrification programme,Government,35,,Stand Alone
+294,Sahibganj,Barhet,Chaldih Pahad,FY 2021-22,Jharkand Rural electrification programme,Government,30,,Stand Alone
+295,Sahibganj,Barhet,Godma,FY 2021-22,Jharkand Rural electrification programme,Government,33,,Stand Alone
+296,Sahibganj,Barhet,Nagarbhita,FY 2021-22,Jharkand Rural electrification programme,Government,36,,Stand Alone
+297,Sahibganj,Barhet,Pusurgoda,FY 2021-22,Jharkand Rural electrification programme,Government,35,,Stand Alone
+298,Sahibganj,Barhet,Amsari Pahad,FY 2021-22,Jharkand Rural electrification programme,Government,41,,Stand Alone
+299,Sahibganj,Barhet,Bijuliya Pahad,FY 2021-22,Jharkand Rural electrification programme,Government,42,,Stand Alone
+300,Sahibganj,Barhet,Chota Panchrukhi,FY 2021-22,Jharkand Rural electrification programme,Government,48,,Stand Alone
+301,Sahibganj,Barhet,Chatra,FY 2021-22,Jharkand Rural electrification programme,Government,47,,Stand Alone
+302,Sahibganj,Barhet,Mori katro,FY 2021-22,Jharkand Rural electrification programme,Government,48,,Stand Alone
+303,Sahibganj,Barhet,Dhapni,FY 2021-22,Jharkand Rural electrification programme,Government,31,,Stand Alone
+304,Sahibganj,Barhet,Chota Betona,FY 2021-22,Jharkand Rural electrification programme,Government,40,,Stand Alone
+305,Sahibganj,Taljari,Chongro,FY 2021-22,Jharkand Rural electrification programme,Government,42,,Stand Alone
+306,Sahibganj,Taljari,Mande,FY 2021-22,Jharkand Rural electrification programme,Government,26,,Stand Alone
+307,Sahibganj,Taljari,Atarbeitol(daugati),FY 2021-22,Jharkand Rural electrification programme,Government,18,,Stand Alone
+308,Sahibganj,Borio,Simaljori,FY 2021-22,Jharkand Rural electrification programme,Government,54,,Stand Alone
+309,Sahibganj,Barhit,Koteramo,FY 2021-22,Jharkand Rural electrification programme,Government,13,,Stand Alone
+310,Sahibganj,Barhit,Tokjari,FY 2021-22,Jharkand Rural electrification programme,Government,16,,Stand Alone
+311,Sahibganj,Pathana,Bade,FY 2021-22,Jharkand Rural electrification programme,Government,38,,Stand Alone
+312,Sahibganj,Pathana,Gunjra Bedo,FY 2021-22,Jharkand Rural electrification programme,Government,37,,Stand Alone
+313,Sahibganj,Pathana,BundaMago,FY 2021-22,Jharkand Rural electrification programme,Government,39,,Stand Alone
+314,Sahibganj,Pathana,Bunda(Baraghat),FY 2021-22,Jharkand Rural electrification programme,Government,41,,Stand Alone
+315,Sahibganj,Pathana,Dalahi Amarpur,FY 2021-22,Jharkand Rural electrification programme,Government,25,,Stand Alone
+316,Sahibganj,Borio,Ganria (Kudman),FY 2021-22,Jharkand Rural electrification programme,Government,34,,Stand Alone
+317,Sahibganj,Mandro,Sormari,FY 2021-22,Jharkand Rural electrification programme,Government,42,,Stand Alone
+318,Sahibganj,Mandro,Baramasia,FY 2021-22,Jharkand Rural electrification programme,Government,47,,Stand Alone
+319,Sahibganj,Mandro,Mandra,FY 2021-22,Jharkand Rural electrification programme,Government,31,,Stand Alone
+320,Sahibganj,Mandro,Betonra,FY 2021-22,Jharkand Rural electrification programme,Government,36,,Stand Alone
+321,Sahibganj,Borio,Bunda,FY 2021-22,Jharkand Rural electrification programme,Government,34,,Stand Alone
+322,Sahibganj,Barhait,Tetulia Pahar,FY 2021-22,Jharkand Rural electrification programme,Government,20,,Stand Alone
+323,Sahibganj,Barhait,Sonmani Pahar,FY 2021-22,Jharkand Rural electrification programme,Government,44,,Stand Alone
+324,Sahibganj,Barhait,Kaldigoda,FY 2021-22,Jharkand Rural electrification programme,Government,13,,Stand Alone
+325,Sahibganj,Barhait,Mahuatanr,FY 2021-22,Jharkand Rural electrification programme,Government,23,,Stand Alone
+326,Sahibganj,Mandro,Shergarh,FY 2021-22,Jharkand Rural electrification programme,Government,17,,Stand Alone
+327,Sahibganj,BORIO,Pokhariya Pahar,FY 2021-22,Jharkand Rural electrification programme,Government,42,,Stand Alone
+328,Sahibganj,Mandro,Pachrukhi,FY 2021-22,Jharkand Rural electrification programme,Government,17,,Stand Alone
+329,Sahibganj,Mandro,kodepara,FY 2021-22,Jharkand Rural electrification programme,Government,24,,Stand Alone
+330,Sahibganj,Barhait,Mokama Joka,FY 2021-22,Jharkand Rural electrification programme,Government,40,,Stand Alone
+331,Sahibganj,Barhait,Mansibri,FY 2021-22,Jharkand Rural electrification programme,Government,33,,Stand Alone
+332,Sahibganj,Barhait,Kapas bera,FY 2021-22,Jharkand Rural electrification programme,Government,27,,Stand Alone
+333,Sahibganj,Borio,Dulle Pahar,FY 2021-22,Jharkand Rural electrification programme,Government,52,,Stand Alone
+334,Sahibganj,Mandro,Kodepara,FY 2021-22,Jharkand Rural electrification programme,Government,18,,Stand Alone
+335,Sahibganj,Mandro,Baghdumma,FY 2021-22,Jharkand Rural electrification programme,Government,10,,Stand Alone
+336,Sahibganj,Mandro,Shergarh,FY 2021-22,Jharkand Rural electrification programme,Government,20,,Stand Alone
+337,Hazaribag,Barhi,Narsinghwa,FY 2021-22,Jharkand Rural electrification programme,Government,32,,Stand Alone
+338,Hazaribag,Barkatha,Narsinghwa,FY 2021-22,Jharkand Rural electrification programme,Government,23,,Stand Alone
+339,Hazaribag,Barhi,Dhobghat,FY 2021-22,Jharkand Rural electrification programme,Government,45,,Stand Alone
+340,Hazaribag,Barhi,Narsinghwa,FY 2021-22,Jharkand Rural electrification programme,Government,2,,Stand Alone
+341,Hazaribag,Sadar,Hathigaon,FY 2021-22,Jharkand Rural electrification programme,Government,8,,Stand Alone
+342,Hazaribag,Barhi,Dhobghat,FY 2021-22,Jharkand Rural electrification programme,Government,35,,Stand Alone
+343,Chatra,Tandwa,Bachra Basti,FY 2021-22,Jharkand Rural electrification programme,Government,55,,Stand Alone
+344,Khunti,Arki,Ghagra Tola,FY 2021-22,Jharkand Rural electrification programme,Government,100,,Stand Alone
+345,Hazaribag,Keredari,Niri,FY 2021-22,Jharkand Rural electrification programme,Government,40,,Stand Alone
+346,Hazaribag,Keredari,"Vill-Salga, Tola- Uppar tola",FY 2021-22,Jharkand Rural electrification programme,Government,8,,Stand Alone
+347,Hazaribag,Ichak,"Vill- Babhni, Tola Lukaiya",FY 2021-22,Jharkand Rural electrification programme,Government,12,,Stand Alone
+348,Chatra,Chatra,Moktama,FY 2021-22,Jharkand Rural electrification programme,Government,40,,Stand Alone
+349,Chatra,Simaria,Bargaon,FY 2018-19,Saubhagya Scheme,Government,220,44,Stand Alone
+350,Chatra,Simaria,Kesari,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+351,pashchimi Singhbhum,Dumaria,Jadugora,FY 2018-19,Saubhagya Scheme,Government,18,3.6,Stand Alone
+352,pashchimi Singhbhum,Dumaria,Phuljhari,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+353,pashchimi Singhbhum,Dumaria,Baruniya,FY 2018-19,Saubhagya Scheme,Government,10,2,Stand Alone
+354,pashchimi Singhbhum,Dumaria,Chaidiha,FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+355,pashchimi Singhbhum,Potka,Gamarkocha,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+356,pashchimi Singhbhum,Potka,Tetla,FY 2018-19,Saubhagya Scheme,Government,8,1.6,Stand Alone
+357,pashchimi Singhbhum,Garabanda,Nagrapal,FY 2018-19,Saubhagya Scheme,Government,10,2,Stand Alone
+358,Pakur,Amrapara,Singrashi,FY 2018-19,Saubhagya Scheme,Government,114,22.8,Stand Alone
+359,Pakur,Amrapara,Tutrapahar,FY 2018-19,Saubhagya Scheme,Government,73,14.6,Stand Alone
+360,Pakur,Amrapara,Bamunmara,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+361,Pakur,Amrapara,Makinkita,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+362,Pakur,Amrapara,Sialpahari,FY 2018-19,Saubhagya Scheme,Government,26,5.2,Stand Alone
+363,Pakur,Litipara,Bahabandila,FY 2018-19,Saubhagya Scheme,Government,61,12.2,Stand Alone
+364,Pakur,Litipara,Baraoaktoli,FY 2018-19,Saubhagya Scheme,Government,64,12.8,Stand Alone
+365,Pakur,Litipara,Daldali,FY 2018-19,Saubhagya Scheme,Government,26,5.2,Stand Alone
+366,Sahibganj,Sahibganj,Rampur,FY 2018-19,Saubhagya Scheme,Government,422,84.4,Stand Alone
+367,Sahibganj,Sahibganj,"Topra,Ogairah",FY 2018-19,Saubhagya Scheme,Government,114,22.8,Stand Alone
+368,Purba Singhbhum,Chakardhar,Kotsona,FY 2018-19,Saubhagya Scheme,Government,47,9.4,Stand Alone
+369,Saraikela- Kharsawan,Kuchai,Rolahatu,FY 2018-19,Saubhagya Scheme,Government,203,40.6,Stand Alone
+370,Saraikela- Kharsawan,,Lakhindih,FY 2018-19,Saubhagya Scheme,Government,83,16.6,Stand Alone
+371,Bokaro,Gomla,Jhumra Pahar,FY 2018-19,Saubhagya Scheme,Government,2,0.4,Stand Alone
+372,Bokaro,Gomla,Singhpur,FY 2018-19,Saubhagya Scheme,Government,6,1.2,Stand Alone
+373,Bokaro,Gomla,Boria Sidhabe,FY 2018-19,Saubhagya Scheme,Government,1,0.2,Stand Alone
+374,Bokaro,Gomla,Karitand,FY 2018-19,Saubhagya Scheme,Government,3,0.6,Stand Alone
+375,Bokaro,Gomla,Bartua,FY 2018-19,Saubhagya Scheme,Government,1,0.2,Stand Alone
+376,Bokaro,Chas,Chechaka Dh,FY 2018-19,Saubhagya Scheme,Government,2,0.4,Stand Alone
+377,Sahibganj,Pathna,Gumapahar,FY 2018-19,Saubhagya Scheme,Government,47,9.4,Stand Alone
+378,Sahibganj,Taljhari,Behera,FY 2018-19,Saubhagya Scheme,Government,23,4.6,Stand Alone
+379,Sahibganj,Taljhari,Chuabedo,FY 2018-19,Saubhagya Scheme,Government,2,0.4,Stand Alone
+380,Sahibganj,Taljhari,Chuamaqo,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+381,Sahibganj,Taljhari,Gonodga,FY 2018-19,Saubhagya Scheme,Government,7,1.4,Stand Alone
+382,Sahibganj,Taljhari,Kaldi Bita,FY 2018-19,Saubhagya Scheme,Government,72,14.4,Stand Alone
+383,Sahibganj,Taljhari,Kachlo,FY 2018-19,Saubhagya Scheme,Government,50,10,Stand Alone
+384,Sahibganj,Taljhari,Kundo Kotro,FY 2018-19,Saubhagya Scheme,Government,3,0.6,Stand Alone
+385,Sahibganj,Taljhari,Leba Mago,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+386,Sahibganj,Taljhari,Paktari Pahar,FY 2018-19,Saubhagya Scheme,Government,50,10,Stand Alone
+387,Sahibganj,Taljhari,Pusre,FY 2018-19,Saubhagya Scheme,Government,60,12,Stand Alone
+388,Sahibganj,Taljhari,Sasra,FY 2018-19,Saubhagya Scheme,Government,41,8.2,Stand Alone
+389,Sahibganj,Barhait,Baskojoka,FY 2018-19,Saubhagya Scheme,Government,23,4.6,Stand Alone
+390,Sahibganj,Barhait,Bedobaska,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+391,Sahibganj,Barhait,Kaldigoda,FY 2018-19,Saubhagya Scheme,Government,29,5.8,Stand Alone
+392,Hazaribag,Ichak,Gurukawa,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+393,Hazaribag,Bakagaon,"Simrajada, An",FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+394,Godda,Boarijor,Kutni,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+395,Godda,Boarijor,Puriabadar,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+396,Godda,Boarijor,Bartali,FY 2018-19,Saubhagya Scheme,Government,21,4.2,Stand Alone
+397,Godda,Boarijor,Bargi,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+398,Godda,Boarijor,Churi Bedo,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+399,Godda,Boarijor,Gadgandi,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+400,Godda,Boarijor,Gandiyamo,FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+401,Godda,Boarijor,Maligoda,FY 2018-19,Saubhagya Scheme,Government,27,5.4,Stand Alone
+402,Godda,Boarijor,Merdade,FY 2018-19,Saubhagya Scheme,Government,25,5,Stand Alone
+403,Godda,Boarijor,Orbot,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+404,Godda,Boarijor,Sundariya,FY 2018-19,Saubhagya Scheme,Government,7,1.4,Stand Alone
+405,Godda,Boarijor,Pakariya Paha,FY 2018-19,Saubhagya Scheme,Government,10,2,Stand Alone
+406,Godda,Boarijor,Marni Pahar,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+407,Godda,Boarijor,Daraia Pahar,FY 2018-19,Saubhagya Scheme,Government,50,10,Stand Alone
+408,Godda,Boarijor,"Bara Patma, Masahara",FY 2018-19,Saubhagya Scheme,Government,30,6,Stand Alone
+409,Godda,Boarijor,Chhota Patm,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+410,Godda,Boarijor,Tetarganji Pa,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+411,Godda,Boarijor,Bara Patma,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+412,Godda,Boarijor,Kuspisa,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+413,Godda,Boarijor,Dhamnijor,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+414,Godda,Boarijor,Borbe,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+415,Godda,Boarijor,Donigoda Bed,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+416,Godda,Boarijor,Jania,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+417,Godda,Boarijor,Letragoda,FY 2018-19,Saubhagya Scheme,Government,27,5.4,Stand Alone
+418,Godda,Boarijor,Matubera,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+419,Godda,Boarijor,Puro Mako,FY 2018-19,Saubhagya Scheme,Government,40,8,Stand Alone
+420,Godda,Boarijor,Puro Bedo,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+421,Godda,Boarijor,Tokkuirya,FY 2018-19,Saubhagya Scheme,Government,4,0.8,Stand Alone
+422,Godda,Boarijor,Bera Barma P,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+423,Godda,Boarijor,Tatkunda,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+424,Godda,Boarijor,Chhota Barm,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+425,Godda,Boarijor,Debdanr,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+426,Godda,Boarijor,surla,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+427,Godda,Boarijor,Kesgoria,FY 2018-19,Saubhagya Scheme,Government,4,0.8,Stand Alone
+428,Godda,Boarijor,Pakaria,FY 2018-19,Saubhagya Scheme,Government,67,13.4,Stand Alone
+429,Godda,Boarijor,Jaggora,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+430,Godda,Boarijor,Bador,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+431,Godda,Boarijor,Bichduba,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+432,Godda,Boarijor,Bhagwanpur,FY 2018-19,Saubhagya Scheme,Government,32,6.4,Stand Alone
+433,Godda,Boarijor,Tikrigora,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+434,Godda,Boarijor,Malbhita Tola,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+435,Godda,Boarijor,Chhota Pipra,FY 2018-19,Saubhagya Scheme,Government,23,4.6,Stand Alone
+436,Godda,Boarijor,Bara Pipra,FY 2018-19,Saubhagya Scheme,Government,48,9.6,Stand Alone
+437,Godda,Boarijor,Moter Pahar,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+438,Godda,Boarijor,Balkani,FY 2018-19,Saubhagya Scheme,Government,68,13.6,Stand Alone
+439,Godda,Boarijor,Dholna Pahar,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+440,Godda,Boarijor,Bansdanda,FY 2018-19,Saubhagya Scheme,Government,29,5.8,Stand Alone
+441,Godda,Boarijor,Satbera,FY 2018-19,Saubhagya Scheme,Government,26,5.2,Stand Alone
+442,Godda,Boarijor,Bara Chapri,FY 2018-19,Saubhagya Scheme,Government,71,14.2,Stand Alone
+443,Godda,Boarijor,Chapri Bara,FY 2018-19,Saubhagya Scheme,Government,16,3.2,Stand Alone
+444,Godda,Boarijor,Bara Kerlo,FY 2018-19,Saubhagya Scheme,Government,44,8.8,Stand Alone
+445,Godda,Boarijor,Chhota Kerlo,FY 2018-19,Saubhagya Scheme,Government,81,16.2,Stand Alone
+446,Godda,Sundarpaha,Bhitakepu,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+447,Godda,Sundarpaha,Jari Mamqo,FY 2018-19,Saubhagya Scheme,Government,26,5.2,Stand Alone
+448,Godda,Sundarpaha,Kudi Goda,FY 2018-19,Saubhagya Scheme,Government,31,6.2,Stand Alone
+449,Godda,Sundarpaha,Madgi Mako,FY 2018-19,Saubhagya Scheme,Government,19,3.8,Stand Alone
+450,Godda,Sundarpaha,Chhota Adro,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+451,Godda,Sundarpaha,Maspara,FY 2018-19,Saubhagya Scheme,Government,39,7.8,Stand Alone
+452,Godda,Sundarpaha,Chhota Cham,FY 2018-19,Saubhagya Scheme,Government,58,11.6,Stand Alone
+453,Godda,Sundarpaha,Bada Chamer,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+454,Godda,Sundarpaha,Charchari,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+455,Giridih,Pirtand,Parasnath Hil,FY 2018-19,Saubhagya Scheme,Government,49,9.8,Stand Alone
+456,Hazaribag,Tatijharia,Khutwar,FY 2018-19,Saubhagya Scheme,Government,25,5,Stand Alone
+457,Khunti,Erki,Koel,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+458,Khunti,Murhu,Jilingkel,FY 2018-19,Saubhagya Scheme,Government,100,20,Stand Alone
+459,Hazaribag,Chouparan,Kabilash,FY 2018-19,Saubhagya Scheme,Government,5,1,Stand Alone
+460,Hazaribag,Chouparan,Kalapahar,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+461,Hazaribag,Chouparan,Kauri/ Kairjha,FY 2018-19,Saubhagya Scheme,Government,8,1.6,Stand Alone
+462,Hazaribag,Chouparan,Gerughat,FY 2018-19,Saubhagya Scheme,Government,16,3.2,Stand Alone
+463,Hazaribag,Chouparan,Bardaga,FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+464,Hazaribag,Chouparan,Singhpur,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+465,Hazaribag,Chouparan,Doddpur,FY 2018-19,Saubhagya Scheme,Government,10,2,Stand Alone
+466,Hazaribag,Churchu,Chirubera/ Pi,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+467,Sahibganj,Sahibganj,Hadinagar,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+468,Sahibganj,Borio,Sidhari,FY 2018-19,Saubhagya Scheme,Government,2,0.4,Stand Alone
+469,Sahibganj,Borio,Banspahar,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+470,Sahibganj,Borio,Dapni,FY 2018-19,Saubhagya Scheme,Government,29,5.8,Stand Alone
+471,Sahibganj,Borio,Dhapni Pahar,FY 2018-19,Saubhagya Scheme,Government,8,1.6,Stand Alone
+472,Sahibganj,Borio,Makni Baram,FY 2018-19,Saubhagya Scheme,Government,8,1.6,Stand Alone
+473,Sahibganj,Borio,Phulpahari,FY 2018-19,Saubhagya Scheme,Government,19,3.8,Stand Alone
+474,Sahibganj,Borio,Behera,FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+475,Sahibganj,Mandro,Bara Bhirand,FY 2018-19,Saubhagya Scheme,Government,16,3.2,Stand Alone
+476,Sahibganj,Mandro,Chekola,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+477,Sahibganj,Mandro,Dudama,FY 2018-19,Saubhagya Scheme,Government,6,1.2,Stand Alone
+478,Sahibganj,Mandro,Ghagra,FY 2018-19,Saubhagya Scheme,Government,48,9.6,Stand Alone
+479,Sahibganj,Mandro,Jagori,FY 2018-19,Saubhagya Scheme,Government,4,0.8,Stand Alone
+480,Sahibganj,Mandro,Kasari,FY 2018-19,Saubhagya Scheme,Government,18,3.6,Stand Alone
+481,Sahibganj,Mandro,Katki Mago,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+482,Chatra,Hunterganj,Ghatdhari,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+483,Chatra,Hunterganj,Kolhua,FY 2018-19,Saubhagya Scheme,Government,18,3.6,Stand Alone
+484,Chatra,Hunterganj,Gaidhatari,FY 2018-19,Saubhagya Scheme,Government,25,5,Stand Alone
+485,Chatra,Kunda,Kujram,FY 2018-19,Saubhagya Scheme,Government,72,14.4,Stand Alone
+486,Chatra,Kunda,Balhi,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+487,Chatra,Kunda,Korhans,FY 2018-19,Saubhagya Scheme,Government,122,24.4,Stand Alone
+488,Chatra,Kunda,Soharlot,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+489,Chatra,Lawalaung,Serka,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+490,Chatra,Lawalaung,Jhardag,FY 2018-19,Saubhagya Scheme,Government,6,1.2,Stand Alone
+491,Chatra,Lawalaung,Sehada,FY 2018-19,Saubhagya Scheme,Government,105,21,Stand Alone
+492,Chatra,Lawalaung,Rimi,FY 2018-19,Saubhagya Scheme,Government,198,39.6,Stand Alone
+493,Chatra,Lawalaung,Nawadih,FY 2018-19,Saubhagya Scheme,Government,193,38.6,Stand Alone
+494,Chatra,Lawalaung,Matti Majdih,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+495,Chatra,Lawalaung,Sildag,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+496,Chatra,Lawalaung,Kanti Alias M,FY 2018-19,Saubhagya Scheme,Government,84,16.8,Stand Alone
+497,Chatra,Lawalaung,Sulma,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+498,Chatra,Lawalaung,Lowalong,FY 2018-19,Saubhagya Scheme,Government,288,57.6,Stand Alone
+499,Chatra,Lawalaung,Barhed,FY 2018-19,Saubhagya Scheme,Government,23,4.6,Stand Alone
+500,Chatra,Lawalaung,Hosir,FY 2018-19,Saubhagya Scheme,Government,110,22,Stand Alone
+501,Chatra,Lawalaung,Hutru,FY 2018-19,Saubhagya Scheme,Government,104,20.8,Stand Alone
+502,Chatra,Lawalaung,Jalma,FY 2018-19,Saubhagya Scheme,Government,39,7.8,Stand Alone
+503,Chatra,Lawalaung,Tigda,FY 2018-19,Saubhagya Scheme,Government,101,20.2,Stand Alone
+504,Chatra,Lawalaung,Garhe,FY 2018-19,Saubhagya Scheme,Government,100,20,Stand Alone
+505,Chatra,Lawalaung,Malgo,FY 2018-19,Saubhagya Scheme,Government,74,14.8,Stand Alone
+506,Chatra,Pratappur,Shikarpur,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+507,Chatra,Pratappur,Bami,FY 2018-19,Saubhagya Scheme,Government,16,3.2,Stand Alone
+508,Chatra,Pratappur,Dhardhari,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+509,Gumla,Bishunpur,Hapad,FY 2018-19,Saubhagya Scheme,Government,83,16.6,Stand Alone
+510,Gumla,Bishunpur,Hisir,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+511,Gumla,Dumri,Birgaon,FY 2018-19,Saubhagya Scheme,Government,85,17,Stand Alone
+512,Hazaribag,Chauparan,Kothouduma,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+513,Hazaribag,Chauparan,Mainukhar,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+514,Hazaribag,Chauparan,Maisa Khar,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+515,Hazaribag,Ichak,Parasirajghat,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+516,Hazaribag,Ichak,Pandra,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+517,Latehar,Garu,Karihenar,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+518,Simdega,Bano,Boranda,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+519,Simdega,Jaldega,Semariya,FY 2018-19,Saubhagya Scheme,Government,41,8.2,Stand Alone
+520,Simdega,simdega,Rengarpani,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+521,Simdega,simdega,Hardibera,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+522,Purba Singhbhum,Bandhgaon,Shankara,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+523,Purba Singhbhum,Bandhgaon,Jankopai,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+524,Purba Singhbhum,Bandhgaon,Rogto,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+525,Purba Singhbhum,Bandhgaon,Akir,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+526,Purba Singhbhum,Bandhgaon,Halmad,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+527,Purba Singhbhum,Bandhgaon,Chirkubera,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+528,Purba Singhbhum,Goilkera,Borae(Borne),FY 2018-19,Saubhagya Scheme,Government,56,11.2,Stand Alone
+529,Purba Singhbhum,Goilkera,Srijang,FY 2018-19,Saubhagya Scheme,Government,58,11.6,Stand Alone
+530,Purba Singhbhum,Goilkera,Saitba,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+531,Purba Singhbhum,Goilkera,Sangajata,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+532,Purba Singhbhum,Noamundi,Karampada,FY 2018-19,Saubhagya Scheme,Government,250,50,Stand Alone
+533,Purba Singhbhum,Sonua,Udalkom,FY 2018-19,Saubhagya Scheme,Government,32,6.4,Stand Alone
+534,Purba Singhbhum,Tonto,Banki,FY 2018-19,Saubhagya Scheme,Government,79,15.8,Stand Alone
+535,Purba Singhbhum,Tonto,Kadal sakwa,FY 2018-19,Saubhagya Scheme,Government,81,16.2,Stand Alone
+536,Purba Singhbhum,Tonto,Pukri Kuru,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+537,Purba Singhbhum,Tonto,Masuriburu,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+538,Purba Singhbhum,Tonto,Rutagutu,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+539,Purba Singhbhum,Tonto,Kuessuta,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+540,Purba Singhbhum,Tonto,Udalkam,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+541,Purba Singhbhum,Tonto,Jhirjhanr,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+542,Saraikela- Kharsawan,Chandil,Rangamatia,FY 2018-19,Saubhagya Scheme,Government,161,32.2,Stand Alone
+543,Pakur,Amrapara,Tamki,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+544,Pakur,Amrapara,Bara Bandhka,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+545,Pakur,Litipara,Behra,FY 2018-19,Saubhagya Scheme,Government,25,5,Stand Alone
+546,Pakur,Litipara,Barganwpaha,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+547,Pakur,Litipara,Tetli,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+548,Pakur,Litipara,Margo,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+549,Pakur,Litipara,Kasigora Sant,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+550,Pakur,Litipara,Chhota Chetr,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+551,Pakur,Litipara,Narchi,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+552,Pakur,Litipara,Uparmargo,FY 2018-19,Saubhagya Scheme,Government,21,4.2,Stand Alone
+553,Pakur,Litipara,Pangdo,FY 2018-19,Saubhagya Scheme,Government,35,7,Stand Alone
+554,Sahibganj,Barhait,Chaperi,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+555,Sahibganj,Taljhari,Goga,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+556,Sahibganj,Taljhari,Kasari,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+557,Sahibganj,Taljhari,Mansbera Be,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+558,Chatra,Simaria,Bargaon,FY 2018-19,Saubhagya Scheme,Government,220,44,Stand Alone
+559,Chatra,Simaria,Kesari,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+560,pashchimi Singhbhum,Dumaria,Jadugora,FY 2018-19,Saubhagya Scheme,Government,18,3.6,Stand Alone
+561,pashchimi Singhbhum,Dumaria,Phuljhari,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+562,pashchimi Singhbhum,Dumaria,Baruniya,FY 2018-19,Saubhagya Scheme,Government,10,2,Stand Alone
+563,pashchimi Singhbhum,Dumaria,Chaidiha,FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+564,pashchimi Singhbhum,Potka,Gamarkocha,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+565,pashchimi Singhbhum,Potka,Tetla,FY 2018-19,Saubhagya Scheme,Government,8,1.6,Stand Alone
+566,pashchimi Singhbhum,Garabanda,Nagrapal,FY 2018-19,Saubhagya Scheme,Government,10,2,Stand Alone
+567,Pakur,Amrapara,Singrashi,FY 2018-19,Saubhagya Scheme,Government,114,22.8,Stand Alone
+568,Pakur,Amrapara,Tutrapahar,FY 2018-19,Saubhagya Scheme,Government,73,14.6,Stand Alone
+569,Pakur,Amrapara,Bamunmara,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+570,Pakur,Amrapara,Makinkita,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+571,Pakur,Amrapara,Sialpahari,FY 2018-19,Saubhagya Scheme,Government,26,5.2,Stand Alone
+572,Pakur,Litipara,Bahabandila,FY 2018-19,Saubhagya Scheme,Government,61,12.2,Stand Alone
+573,Pakur,Litipara,Baraoaktoli,FY 2018-19,Saubhagya Scheme,Government,64,12.8,Stand Alone
+574,Pakur,Litipara,Daldali,FY 2018-19,Saubhagya Scheme,Government,26,5.2,Stand Alone
+575,Sahibganj,Sahibganj,Rampur,FY 2018-19,Saubhagya Scheme,Government,422,84.4,Stand Alone
+576,Sahibganj,Sahibganj,"Topra, Ogairah",FY 2018-19,Saubhagya Scheme,Government,114,22.8,Stand Alone
+577,Purba Singhbhum,Chakardhar,Kotsona,FY 2018-19,Saubhagya Scheme,Government,47,9.4,Stand Alone
+578,Saraikela- Kharsawan,Kuchai,Rolahatu,FY 2018-19,Saubhagya Scheme,Government,203,40.6,Stand Alone
+579,Saraikela- Kharsawan,,Lakhindih,FY 2018-19,Saubhagya Scheme,Government,83,16.6,Stand Alone
+580,Bokaro,Gomla,Jhumra Pahar,FY 2018-19,Saubhagya Scheme,Government,2,0.4,Stand Alone
+581,Bokaro,Gomla,Singhpur,FY 2018-19,Saubhagya Scheme,Government,6,1.2,Stand Alone
+582,Bokaro,Gomla,Boria Sidhabe,FY 2018-19,Saubhagya Scheme,Government,1,0.2,Stand Alone
+583,Bokaro,Gomla,Karitand,FY 2018-19,Saubhagya Scheme,Government,3,0.6,Stand Alone
+584,Bokaro,Gomla,Bartua,FY 2018-19,Saubhagya Scheme,Government,1,0.2,Stand Alone
+585,Bokaro,Chas,Chechaka Dh,FY 2018-19,Saubhagya Scheme,Government,2,0.4,Stand Alone
+586,Sahibganj,Pathna,Gumapahar,FY 2018-19,Saubhagya Scheme,Government,47,9.4,Stand Alone
+587,Sahibganj,Taljhari,Behera,FY 2018-19,Saubhagya Scheme,Government,23,4.6,Stand Alone
+588,Sahibganj,Taljhari,Chuabedo,FY 2018-19,Saubhagya Scheme,Government,2,0.4,Stand Alone
+589,Sahibganj,Taljhari,Chuamaqo,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+590,Sahibganj,Taljhari,Gonodga,FY 2018-19,Saubhagya Scheme,Government,7,1.4,Stand Alone
+591,Sahibganj,Taljhari,Kaldi Bita,FY 2018-19,Saubhagya Scheme,Government,72,14.4,Stand Alone
+592,Sahibganj,Taljhari,Kachlo,FY 2018-19,Saubhagya Scheme,Government,50,10,Stand Alone
+593,Sahibganj,Taljhari,Kundo Kotro,FY 2018-19,Saubhagya Scheme,Government,3,0.6,Stand Alone
+594,Sahibganj,Taljhari,Leba Mago,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+595,Sahibganj,Taljhari,Paktari Pahar,FY 2018-19,Saubhagya Scheme,Government,50,10,Stand Alone
+596,Sahibganj,Taljhari,Pusre,FY 2018-19,Saubhagya Scheme,Government,60,12,Stand Alone
+597,Sahibganj,Taljhari,Sasra,FY 2018-19,Saubhagya Scheme,Government,41,8.2,Stand Alone
+598,Sahibganj,Barhait,Baskojoka,FY 2018-19,Saubhagya Scheme,Government,23,4.6,Stand Alone
+599,Sahibganj,Barhait,Bedobaska,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+600,Sahibganj,Barhait,Kaldigoda,FY 2018-19,Saubhagya Scheme,Government,29,5.8,Stand Alone
+601,Hazaribag,Ichak,Gurukawa,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+602,Hazaribag,Bakagaon,"Simrajada, An",FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+603,Godda,Boarijor,Kutni,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+604,Godda,Boarijor,Puriabadar,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+605,Godda,Boarijor,Bartali,FY 2018-19,Saubhagya Scheme,Government,21,4.2,Stand Alone
+606,Godda,Boarijor,Bargi,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+607,Godda,Boarijor,Churi Bedo,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+608,Godda,Boarijor,Gadgandi,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+609,Godda,Boarijor,Gandiyamo,FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+610,Godda,Boarijor,Maligoda,FY 2018-19,Saubhagya Scheme,Government,27,5.4,Stand Alone
+611,Godda,Boarijor,Merdade,FY 2018-19,Saubhagya Scheme,Government,25,5,Stand Alone
+612,Godda,Boarijor,Orbot,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+613,Godda,Boarijor,Sundariya,FY 2018-19,Saubhagya Scheme,Government,7,1.4,Stand Alone
+614,Godda,Boarijor,Pakariya Paha,FY 2018-19,Saubhagya Scheme,Government,10,2,Stand Alone
+615,Godda,Boarijor,Marni Pahar,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+616,Godda,Boarijor,Daraia Pahar,FY 2018-19,Saubhagya Scheme,Government,50,10,Stand Alone
+617,Godda,Boarijor,"Bara Patma, Masahara",FY 2018-19,Saubhagya Scheme,Government,30,6,Stand Alone
+618,Godda,Boarijor,Chhota Patm,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+619,Godda,Boarijor,Tetarganji Pa,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+620,Godda,Boarijor,Bara Patma,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+621,Godda,Boarijor,Kuspisa,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+622,Godda,Boarijor,Dhamnijor,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+623,Godda,Boarijor,Borbe,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+624,Godda,Boarijor,Donigoda Bed,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+625,Godda,Boarijor,Jania,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+626,Godda,Boarijor,Letragoda,FY 2018-19,Saubhagya Scheme,Government,27,5.4,Stand Alone
+627,Godda,Boarijor,Matubera,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+628,Godda,Boarijor,Puro Mako,FY 2018-19,Saubhagya Scheme,Government,40,8,Stand Alone
+629,Godda,Boarijor,Puro Bedo,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+630,Godda,Boarijor,Tokkuirya,FY 2018-19,Saubhagya Scheme,Government,4,0.8,Stand Alone
+631,Godda,Boarijor,Bera Barma P,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+632,Godda,Boarijor,Tatkunda,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+633,Godda,Boarijor,Chhota Barm,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+634,Godda,Boarijor,Debdanr,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+635,Godda,Boarijor,surla,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+636,Godda,Boarijor,Kesgoria,FY 2018-19,Saubhagya Scheme,Government,4,0.8,Stand Alone
+637,Godda,Boarijor,Pakaria,FY 2018-19,Saubhagya Scheme,Government,67,13.4,Stand Alone
+638,Godda,Boarijor,Jaggora,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+639,Godda,Boarijor,Bador,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+640,Godda,Boarijor,Bichduba,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+641,Godda,Boarijor,Bhagwanpur,FY 2018-19,Saubhagya Scheme,Government,32,6.4,Stand Alone
+642,Godda,Boarijor,Tikrigora,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+643,Godda,Boarijor,Malbhita Tola,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+644,Godda,Boarijor,Chhota Pipra,FY 2018-19,Saubhagya Scheme,Government,23,4.6,Stand Alone
+645,Godda,Boarijor,Bara Pipra,FY 2018-19,Saubhagya Scheme,Government,48,9.6,Stand Alone
+646,Godda,Boarijor,Moter Pahar,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+647,Godda,Boarijor,Balkani,FY 2018-19,Saubhagya Scheme,Government,68,13.6,Stand Alone
+648,Godda,Boarijor,Dholna Pahar,FY 2018-19,Saubhagya Scheme,Government,9,1.8,Stand Alone
+649,Godda,Boarijor,Bansdanda,FY 2018-19,Saubhagya Scheme,Government,29,5.8,Stand Alone
+650,Godda,Boarijor,Satbera,FY 2018-19,Saubhagya Scheme,Government,26,5.2,Stand Alone
+651,Godda,Boarijor,Bara Chapri,FY 2018-19,Saubhagya Scheme,Government,71,14.2,Stand Alone
+652,Godda,Boarijor,Chapri Bara,FY 2018-19,Saubhagya Scheme,Government,16,3.2,Stand Alone
+653,Godda,Boarijor,Bara Kerlo,FY 2018-19,Saubhagya Scheme,Government,44,8.8,Stand Alone
+654,Godda,Boarijor,Chhota Kerlo,FY 2018-19,Saubhagya Scheme,Government,81,16.2,Stand Alone
+655,Godda,Sundarpaha,Bhitakepu,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+656,Godda,Sundarpaha,Jari Mamqo,FY 2018-19,Saubhagya Scheme,Government,26,5.2,Stand Alone
+657,Godda,Sundarpaha,Kudi Goda,FY 2018-19,Saubhagya Scheme,Government,31,6.2,Stand Alone
+658,Godda,Sundarpaha,Madgi Mako,FY 2018-19,Saubhagya Scheme,Government,19,3.8,Stand Alone
+659,Godda,Sundarpaha,Chhota Adro,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+660,Godda,Sundarpaha,Maspara,FY 2018-19,Saubhagya Scheme,Government,39,7.8,Stand Alone
+661,Godda,Sundarpaha,Chhota Cham,FY 2018-19,Saubhagya Scheme,Government,58,11.6,Stand Alone
+662,Godda,Sundarpaha,Bada Chamer,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+663,Godda,Sundarpaha,Charchari,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+664,Giridih,Pirtand,Parasnath Hil,FY 2018-19,Saubhagya Scheme,Government,49,9.8,Stand Alone
+665,Hazaribag,Tatijharia,Khutwar,FY 2018-19,Saubhagya Scheme,Government,25,5,Stand Alone
+666,Khunti,Erki,Koel,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+667,Khunti,Murhu,Jilingkel,FY 2018-19,Saubhagya Scheme,Government,100,20,Stand Alone
+668,Hazaribag,Chouparan,Kabilash,FY 2018-19,Saubhagya Scheme,Government,5,1,Stand Alone
+669,Hazaribag,Chouparan,Kalapahar,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+670,Hazaribag,Chouparan,Kauri/ Kairjha,FY 2018-19,Saubhagya Scheme,Government,8,1.6,Stand Alone
+671,Hazaribag,Chouparan,Gerughat,FY 2018-19,Saubhagya Scheme,Government,16,3.2,Stand Alone
+672,Hazaribag,Chouparan,Bardaga,FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+673,Hazaribag,Chouparan,Singhpur,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+674,Hazaribag,Chouparan,Doddpur,FY 2018-19,Saubhagya Scheme,Government,10,2,Stand Alone
+675,Hazaribag,Churchu,Chirubera/ Pi,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+676,Sahibganj,Sahibganj,Hadinagar,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+677,Sahibganj,Borio,Sidhari,FY 2018-19,Saubhagya Scheme,Government,2,0.4,Stand Alone
+678,Sahibganj,Borio,Banspahar,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+679,Sahibganj,Borio,Dapni,FY 2018-19,Saubhagya Scheme,Government,29,5.8,Stand Alone
+680,Sahibganj,Borio,Dhapni Pahar,FY 2018-19,Saubhagya Scheme,Government,8,1.6,Stand Alone
+681,Sahibganj,Borio,Makni Baram,FY 2018-19,Saubhagya Scheme,Government,8,1.6,Stand Alone
+682,Sahibganj,Borio,Phulpahari,FY 2018-19,Saubhagya Scheme,Government,19,3.8,Stand Alone
+683,Sahibganj,Borio,Behera,FY 2018-19,Saubhagya Scheme,Government,15,3,Stand Alone
+684,Sahibganj,Mandro,Bara Bhirand,FY 2018-19,Saubhagya Scheme,Government,16,3.2,Stand Alone
+685,Sahibganj,Mandro,Chekola,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+686,Sahibganj,Mandro,Dudama,FY 2018-19,Saubhagya Scheme,Government,6,1.2,Stand Alone
+687,Sahibganj,Mandro,Ghagra,FY 2018-19,Saubhagya Scheme,Government,48,9.6,Stand Alone
+688,Sahibganj,Mandro,Jagori,FY 2018-19,Saubhagya Scheme,Government,4,0.8,Stand Alone
+689,Sahibganj,Mandro,Kasari,FY 2018-19,Saubhagya Scheme,Government,18,3.6,Stand Alone
+690,Sahibganj,Mandro,Katki Mago,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+691,Chatra,Hunterganj,Ghatdhari,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+692,Chatra,Hunterganj,Kolhua,FY 2018-19,Saubhagya Scheme,Government,18,3.6,Stand Alone
+693,Chatra,Hunterganj,Gaidhatari,FY 2018-19,Saubhagya Scheme,Government,25,5,Stand Alone
+694,Chatra,Kunda,Kujram,FY 2018-19,Saubhagya Scheme,Government,72,14.4,Stand Alone
+695,Chatra,Kunda,Balhi,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+696,Chatra,Kunda,Korhans,FY 2018-19,Saubhagya Scheme,Government,122,24.4,Stand Alone
+697,Chatra,Kunda,Soharlot,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+698,Chatra,Lawalaung,Serka,FY 2018-19,Saubhagya Scheme,Government,22,4.4,Stand Alone
+699,Chatra,Lawalaung,Jhardag,FY 2018-19,Saubhagya Scheme,Government,6,1.2,Stand Alone
+700,Chatra,Lawalaung,Sehada,FY 2018-19,Saubhagya Scheme,Government,105,21,Stand Alone
+701,Chatra,Lawalaung,Rimi,FY 2018-19,Saubhagya Scheme,Government,198,39.6,Stand Alone
+702,Chatra,Lawalaung,Nawadih,FY 2018-19,Saubhagya Scheme,Government,193,38.6,Stand Alone
+703,Chatra,Lawalaung,Matti Majdih,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+704,Chatra,Lawalaung,Sildag,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+705,Chatra,Lawalaung,Kanti Alias M,FY 2018-19,Saubhagya Scheme,Government,84,16.8,Stand Alone
+706,Chatra,Lawalaung,Sulma,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+707,Chatra,Lawalaung,Lowalong,FY 2018-19,Saubhagya Scheme,Government,288,57.6,Stand Alone
+708,Chatra,Lawalaung,Barhed,FY 2018-19,Saubhagya Scheme,Government,23,4.6,Stand Alone
+709,Chatra,Lawalaung,Hosir,FY 2018-19,Saubhagya Scheme,Government,110,22,Stand Alone
+710,Chatra,Lawalaung,Hutru,FY 2018-19,Saubhagya Scheme,Government,104,20.8,Stand Alone
+711,Chatra,Lawalaung,Jalma,FY 2018-19,Saubhagya Scheme,Government,39,7.8,Stand Alone
+712,Chatra,Lawalaung,Tigda,FY 2018-19,Saubhagya Scheme,Government,101,20.2,Stand Alone
+713,Chatra,Lawalaung,Garhe,FY 2018-19,Saubhagya Scheme,Government,100,20,Stand Alone
+714,Chatra,Lawalaung,Malgo,FY 2018-19,Saubhagya Scheme,Government,74,14.8,Stand Alone
+715,Chatra,Pratappur,Shikarpur,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+716,Chatra,Pratappur,Bami,FY 2018-19,Saubhagya Scheme,Government,16,3.2,Stand Alone
+717,Chatra,Pratappur,Dhardhari,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+718,Gumla,Bishunpur,Hapad,FY 2018-19,Saubhagya Scheme,Government,83,16.6,Stand Alone
+719,Gumla,Bishunpur,Hisir,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+720,Gumla,Dumri,Birgaon,FY 2018-19,Saubhagya Scheme,Government,85,17,Stand Alone
+721,Hazaribag,Chauparan,Kothouduma,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+722,Hazaribag,Chauparan,Mainukhar,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+723,Hazaribag,Chauparan,Maisa Khar,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+724,Hazaribag,Ichak,Parasirajghat,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+725,Hazaribag,Ichak,Pandra,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+726,Latehar,Garu,Karihenar,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+727,Simdega,Bano,Boranda,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+728,Simdega,Jaldega,Semariya,FY 2018-19,Saubhagya Scheme,Government,41,8.2,Stand Alone
+729,Simdega,simdega,Rengarpani,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+730,Simdega,simdega,Hardibera,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+731,Purba Singhbhum,Bandhgaon,Shankara,FY 2018-19,Saubhagya Scheme,Government,33,6.6,Stand Alone
+732,Purba Singhbhum,Bandhgaon,Jankopai,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+733,Purba Singhbhum,Bandhgaon,Rogto,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+734,Purba Singhbhum,Bandhgaon,Akir,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+735,Purba Singhbhum,Bandhgaon,Halmad,FY 2018-19,Saubhagya Scheme,Government,37,7.4,Stand Alone
+736,Purba Singhbhum,Bandhgaon,Chirkubera,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+737,Purba Singhbhum,Goilkera,Borae(Borne),FY 2018-19,Saubhagya Scheme,Government,56,11.2,Stand Alone
+738,Purba Singhbhum,Goilkera,Srijang,FY 2018-19,Saubhagya Scheme,Government,58,11.6,Stand Alone
+739,Purba Singhbhum,Goilkera,Saitba,FY 2018-19,Saubhagya Scheme,Government,20,4,Stand Alone
+740,Purba Singhbhum,Goilkera,Sangajata,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+741,Purba Singhbhum,Noamundi,Karampada,FY 2018-19,Saubhagya Scheme,Government,250,50,Stand Alone
+742,Purba Singhbhum,Sonua,Udalkom,FY 2018-19,Saubhagya Scheme,Government,32,6.4,Stand Alone
+743,Purba Singhbhum,Tonto,Banki,FY 2018-19,Saubhagya Scheme,Government,79,15.8,Stand Alone
+744,Purba Singhbhum,Tonto,Kadal sakwa,FY 2018-19,Saubhagya Scheme,Government,81,16.2,Stand Alone
+745,Purba Singhbhum,Tonto,Pukri Kuru,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+746,Purba Singhbhum,Tonto,Masuriburu,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+747,Purba Singhbhum,Tonto,Rutagutu,FY 2018-19,Saubhagya Scheme,Government,24,4.8,Stand Alone
+748,Purba Singhbhum,Tonto,Kuessuta,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+749,Purba Singhbhum,Tonto,Udalkam,FY 2018-19,Saubhagya Scheme,Government,13,2.6,Stand Alone
+750,Purba Singhbhum,Tonto,Jhirjhanr,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+751,Saraikela- Kharsawan,Chandil,Rangamatia,FY 2018-19,Saubhagya Scheme,Government,161,32.2,Stand Alone
+752,Pakur,Amrapara,Tamki,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+753,Pakur,Amrapara,Bara Bandhka,FY 2018-19,Saubhagya Scheme,Government,36,7.2,Stand Alone
+754,Pakur,Litipara,Behra,FY 2018-19,Saubhagya Scheme,Government,25,5,Stand Alone
+755,Pakur,Litipara,Barganwpaha,FY 2018-19,Saubhagya Scheme,Government,14,2.8,Stand Alone
+756,Pakur,Litipara,Tetli,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+757,Pakur,Litipara,Margo,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+758,Pakur,Litipara,Kasigora Sant,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+759,Pakur,Litipara,Chhota Chetr,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+760,Pakur,Litipara,Narchi,FY 2018-19,Saubhagya Scheme,Government,12,2.4,Stand Alone
+761,Pakur,Litipara,Uparmargo,FY 2018-19,Saubhagya Scheme,Government,21,4.2,Stand Alone
+762,Pakur,Litipara,Pangdo,FY 2018-19,Saubhagya Scheme,Government,35,7,Stand Alone
+763,Sahibganj,Barhait,Chaperi,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+764,Sahibganj,Taljhari,Goga,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
+765,Sahibganj,Taljhari,Kasari,FY 2018-19,Saubhagya Scheme,Government,17,3.4,Stand Alone
+766,Sahibganj,Taljhari,Mansbera Be,FY 2018-19,Saubhagya Scheme,Government,11,2.2,Stand Alone
